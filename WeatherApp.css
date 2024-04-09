@@ -14,7 +14,7 @@
 .card1{
     background-color: rgb(169, 155, 219);
     border-bottom: 5px solid black;
-    border-right: 5px solid black;
+    border-right: 5px solid red;
     border-radius: 10px;
     font-size: 100px;
 }
@@ -26,6 +26,3 @@
 .header{
     font-size: 20px;
 }
-/* .container{
-    border: 1px solid black;
-} */
