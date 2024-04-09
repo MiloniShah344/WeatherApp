@@ -1,0 +1,31 @@
+.title{
+    align-items: center;
+}
+.box{
+    margin-top: 20px;
+    /* margin-left: 10px; */
+    /* border: 1px solid black; */
+    background-color: white;
+}  
+.body{
+    text-align: center;
+    font-size: 100px;
+} 
+.card1{
+    background-color: rgb(169, 155, 219);
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-radius: 10px;
+    font-size: 100px;
+}
+.card2{
+    background-color: rgb(169, 155, 219);
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+.header{
+    font-size: 20px;
+}
+/* .container{
+    border: 1px solid black;
+} */
